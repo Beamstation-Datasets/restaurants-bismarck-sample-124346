@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Market-wide restaurant data for Bismarck in the Northern Plains. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Bismarck, North Dakota, US",
+  "export_job_id": "6ae9b1f7-9c4b-4626-8980-f7f5654a6fa0",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 124346,
+  "location_name": "Bismarck",
+  "location_type": "city",
+  "repo_name": "restaurants-bismarck-sample-124346",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/124346/beamstation_124346_restaurants-us-nd_SAMPLE_DIST.csv",
+  "sample_pct": 9.55,
+  "sample_records": 19,
+  "sample_sha256": "8530fb53162d43f7752f224af1f554162f4f8cf0fa2af115d2066e6d11d761de",
+  "sample_size_bytes": 88383,
+  "total_records": 199,
+  "updated_at": "2026-04-02T14:01:15.899910+00:00"
+}
