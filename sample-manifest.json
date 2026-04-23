@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e89fba99-07ef-4289-9f18-3da5dd519d43",
+  "export_job_id": "ea9f60d7-7b6f-4c57-8175-a1f8a5c31ef7",
   "id_short": 124346,
-  "published_at": "2026-04-19T19:26:12Z",
+  "published_at": "2026-04-23T19:09:20Z",
   "repo_name": "all-restaurants-in-bismarck-north-dakota-us-sample-124346",
   "sample_asset_name": "beamstation_124346_restaurants-us-nd_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/124346/beamstation_124346_restaurants-us-nd_SAMPLE_DIST.csv",
-  "sample_records": 21,
-  "sample_sha256": "63521a50709493a966302bf2e38030c2e2b555ff73c0e5a6c1e26c00f624ea33",
-  "sample_size_bytes": 82191,
-  "total_records": 219
+  "sample_records": 6,
+  "sample_sha256": "c494ff9df4f3136f6a8d1660595e2ce1cddff961f95d9b0cfb6d127ede2c612c",
+  "sample_size_bytes": 34042,
+  "total_records": 66
 }
